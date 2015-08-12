@@ -1,0 +1,13 @@
+<?php
+
+// see https://apps.twitter.com/app/<id>
+
+$config = array(
+  'user_agent'      => 'Your bot name',
+  'consumer_key'    => 'Consumer Key (API Key)', // Consumer Key (API Key)
+  'consumer_secret' => 'Consumer Secret (API Secret)', // Consumer Secret (API Secret)
+  'user_token'      => 'Access Token', // Access Token
+  'user_secret'     => 'Access Token Secret', // Access Token Secret
+);
+
+?>
